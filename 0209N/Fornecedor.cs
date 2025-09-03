@@ -8,5 +8,14 @@ namespace _0209N
 {
     internal class Fornecedor
     {
+        public int registro;
+        public double salario;
+        public string funcao;
+        public string admissao;
+        public double valeRefeicao;
+        public double valeAlimentacao;
+        public double valeTransporte;
+        public string assistenciaMedica;
+        public Pessoa dependente;
     }
 }
