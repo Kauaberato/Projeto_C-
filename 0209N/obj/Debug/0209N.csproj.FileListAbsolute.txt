@@ -1,0 +1,7 @@
+C:\Users\Professor\source\repos\0209N\0209N\bin\Debug\0209N.exe.config
+C:\Users\Professor\source\repos\0209N\0209N\bin\Debug\0209N.exe
+C:\Users\Professor\source\repos\0209N\0209N\bin\Debug\0209N.pdb
+C:\Users\Professor\source\repos\0209N\0209N\obj\Debug\0209N.csproj.AssemblyReference.cache
+C:\Users\Professor\source\repos\0209N\0209N\obj\Debug\0209N.csproj.CoreCompileInputs.cache
+C:\Users\Professor\source\repos\0209N\0209N\obj\Debug\0209N.exe
+C:\Users\Professor\source\repos\0209N\0209N\obj\Debug\0209N.pdb
