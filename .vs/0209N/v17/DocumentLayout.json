@@ -3,11 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Professor\\source\\repos\\0209N\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|0209N||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71BBCCEA-5585-424C-BFF0-D6A140249E94}|0209N\\0209N.csproj|C:\\Users\\Professor\\source\\repos\\0209N\\0209n\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71BBCCEA-5585-424C-BFF0-D6A140249E94}|0209N\\0209N.csproj|solutionrelative:0209n\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{71BBCCEA-5585-424C-BFF0-D6A140249E94}|0209N\\0209N.csproj|c:\\users\\professor\\source\\repos\\0209n\\0209n\\clientevip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BBCCEA-5585-424C-BFF0-D6A140249E94}|0209N\\0209N.csproj|solutionrelative:0209n\\clientevip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{71BBCCEA-5585-424C-BFF0-D6A140249E94}|0209N\\0209N.csproj|c:\\users\\professor\\source\\repos\\0209n\\0209n\\fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -18,7 +15,11 @@
       "RelativeMoniker": "D:0:0:{71BBCCEA-5585-424C-BFF0-D6A140249E94}|0209N\\0209N.csproj|solutionrelative:0209n\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71BBCCEA-5585-424C-BFF0-D6A140249E94}|0209N\\0209N.csproj|c:\\users\\professor\\source\\repos\\0209n\\0209n\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
+      "AbsoluteMoniker": "D:0:0:{71BBCCEA-5585-424C-BFF0-D6A140249E94}|0209N\\0209N.csproj|C:\\Users\\Professor\\source\\repos\\0209N\\0209n\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BBCCEA-5585-424C-BFF0-D6A140249E94}|0209N\\0209N.csproj|solutionrelative:0209n\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|0209N||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,36 +29,53 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Fornecedor.cs",
+              "DocumentMoniker": "C:\\Users\\Professor\\source\\repos\\0209N\\0209N\\Fornecedor.cs",
+              "RelativeDocumentMoniker": "0209N\\Fornecedor.cs",
+              "ToolTip": "C:\\Users\\Professor\\source\\repos\\0209N\\0209N\\Fornecedor.cs",
+              "RelativeToolTip": "0209N\\Fornecedor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T23:22:35.242Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ClienteVip.cs",
+              "DocumentMoniker": "C:\\Users\\Professor\\source\\repos\\0209N\\0209N\\ClienteVip.cs",
+              "RelativeDocumentMoniker": "0209N\\ClienteVip.cs",
+              "ToolTip": "C:\\Users\\Professor\\source\\repos\\0209N\\0209N\\ClienteVip.cs*",
+              "RelativeToolTip": "0209N\\ClienteVip.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T01:09:06.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "0209N",
               "DocumentMoniker": "C:\\Users\\Professor\\source\\repos\\0209N\\0209N\\0209N.csproj",
               "RelativeDocumentMoniker": "0209N\\0209N.csproj",
               "ToolTip": "C:\\Users\\Professor\\source\\repos\\0209N\\0209N\\0209N.csproj",
               "RelativeToolTip": "0209N\\0209N.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-09-03T00:58:45.457Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-03T00:58:45.457Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Fornecedor.cs",
-              "DocumentMoniker": "C:\\Users\\Professor\\source\\repos\\0209N\\0209N\\Fornecedor.cs",
-              "RelativeDocumentMoniker": "0209N\\Fornecedor.cs",
-              "ToolTip": "C:\\Users\\Professor\\source\\repos\\0209N\\0209N\\Fornecedor.cs",
-              "RelativeToolTip": "0209N\\Fornecedor.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T23:22:35.242Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Pessoa.cs",
               "DocumentMoniker": "C:\\Users\\Professor\\source\\repos\\0209N\\0209N\\Pessoa.cs",
               "RelativeDocumentMoniker": "0209N\\Pessoa.cs",
@@ -65,12 +83,11 @@
               "RelativeToolTip": "0209N\\Pessoa.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAowBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T23:22:24.312Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-02T23:22:24.312Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Professor\\source\\repos\\0209N\\0209N\\Program.cs",
               "RelativeDocumentMoniker": "0209N\\Program.cs",
@@ -78,8 +95,7 @@
               "RelativeToolTip": "0209N\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T22:31:53.393Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-02T22:31:53.393Z"
             }
           ]
         }
